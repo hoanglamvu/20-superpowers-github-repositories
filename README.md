@@ -1,3 +1,5 @@
+![Main Window two](https://github.com/saasscaleup//20-superpowers-github-repositories/blob/master/image.png?raw=true)
+
 # 20-superpowers-github-repositories
 
 🔥 20 GitHub repositories that will give you superpowers: 🔥 🔽
