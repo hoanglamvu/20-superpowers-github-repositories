@@ -5,7 +5,7 @@
 🔥 20 GitHub repositories that will give you superpowers: 🔥 🔽
 
 1. [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap) - Up to Date roadmap to becoming a developer.
-2. [DevOps Roadmap](https://github.com/milanm/DevOps-Roadmap) - This is a step-by-step guide on how to become a DevOps engineer, with links to relevant learning resources.
+2. [Awesome AI Tools](https://github.com/mahseema/awesome-ai-tools) - A curated list of Artificial Intelligence Top Tools.
 3. [Awesome](https://github.com/sindresorhus/awesome) - Awesome lists about all kinds of interesting topics
 4. [Free Programming Books](https://github.com/EbookFoundation/free-programming-books) - A huge list of freely available programming books.
 5. [Coding Interview University](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
