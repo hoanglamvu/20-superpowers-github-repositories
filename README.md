@@ -5,10 +5,10 @@
 🔥 20 GitHub repositories that will give you superpowers: 🔥 🔽
 
 1. [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap) - Up to Date roadmap to becoming a developer.
-2. [DevOps Roadmap](https://github.com/milanm/DevOps-Roadmap) - This is a step-by-step guide on how to become a DevOps engineer, with links to relevant learning resources.[Coding Interview University](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
+2. [DevOps Roadmap](https://github.com/milanm/DevOps-Roadmap) - This is a step-by-step guide on how to become a DevOps engineer, with links to relevant learning resources.
 3. [Awesome](https://github.com/sindresorhus/awesome) - Awesome lists about all kinds of interesting topics
 4. [Free Programming Books](https://github.com/EbookFoundation/free-programming-books) - A huge list of freely available programming books.
-5. [DevOps Roadmap](https://github.com/milanm/DevOps-Roadmap) - This is a step-by-step guide on how to become a DevOps engineer, with links to relevant learning resources.
+5. [Coding Interview University](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
 6. [Javascript Algorithms](https://github.com/trekhleb/javascript-algorithms) - Algorithms and data structures implemented in javascript with explanations and links.
 7. [Node Best Practices](https://github.com/goldbergyoni/nodebestpractices) - The Node JS best Practices List
 8. [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook) - Curated coding interview preparation materials for software engineers.
